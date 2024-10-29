@@ -13,4 +13,5 @@ int main()
     int n;
     cin >> n;
     cout << fat(n) << endl;
+    return 0;
 }
